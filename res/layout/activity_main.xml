@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+   
+    <TableLayout  android:id="@+id/tableLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TableRow
+        android:id="@+id/row1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dip" >
+
+        <ImageView 
+			android:id="@+id/leaders"
+			android:clickable="true"
+			android:src="@drawable/freedom"
+			android:layout_width="match_parent"
+      		android:layout_height="match_parent" 
+      		android:layout_weight="1"
+      		android:onClick="onClickHandler"
+			android:contentDescription="@string/title_leaders" />
+    </TableRow>
+    <TableRow
+        android:id="@+id/row1.1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dip" >
+
+       <TextView
+        android:id="@+id/leaders1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="@string/title_leaders"
+        android:clickable="true"
+        android:onClick="onClickHandler" />
+        
+    </TableRow>
+    <TableRow
+        android:id="@+id/row2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dip" >
+
+        <ImageView 
+			android:id="@+id/anthem"        
+			android:clickable="true"
+			android:src="@drawable/flag"
+			android:layout_width="match_parent"
+      		android:layout_height="match_parent" 
+      		android:layout_weight="1"
+      		android:scaleType="fitXY"
+			android:onClick="onClickHandler"
+			android:contentDescription="@string/title_songs" />
+        
+    </TableRow>
+    <TableRow
+        android:id="@+id/row2.1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dip" >
+
+       <TextView
+        android:id="@+id/anthem1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="@string/title_songs"
+        android:clickable="true"
+        android:onClick="onClickHandler" />
+        
+    </TableRow>
+    
+    
+    <TableRow
+        android:id="@+id/row3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dip" >
+
+        <ImageView 
+			android:id="@+id/symbols"        
+			android:clickable="true"
+			android:src="@drawable/symbols"
+			android:layout_width="match_parent"
+      		android:layout_height="match_parent" 
+      		android:layout_weight="1"
+      		android:scaleType="fitXY"
+			android:onClick="onClickHandler"
+			android:contentDescription="@string/title_symbols" />
+        
+    </TableRow>
+    <TableRow
+        android:id="@+id/row3.1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dip" >
+
+       <TextView
+        android:id="@+id/symbols1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:text="@string/title_symbols"
+        android:clickable="true"
+        android:onClick="onClickHandler" />
+        
+    </TableRow>
+    
+    
+    </TableLayout>
+    
+</LinearLayout>
