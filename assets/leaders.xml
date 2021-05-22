@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<appdata>
+<row>
+<name>Mahatma Gandhi</name>
+<nameta>மகாத்மா காந்தி</nameta>
+<image>gandhiji</image>
+<show>true</show>
+<custom>false</custom>
+<audio>gandhiji</audio>
+</row>
+<row>
+<name>Nethaji Subhash Chandra Bose</name>
+<nameta>நேதாஜி சுபாஷ் சந்திர போஸ்</nameta>
+<image>nethaji</image>
+<show>true</show>
+<custom>false</custom>
+<audio>nethaji</audio>
+</row>
+<row>
+<name>Bhagat Singh</name>
+<nameta>பகத் சிங்</nameta>
+<image>bagathsingh</image>
+<show>true</show>
+<custom>false</custom>
+<audio>bagathsingh</audio>
+</row>
+<row>
+<name>Sardar Vallabhbhai Patel</name>
+<nameta>சர்தார் வல்லபாய் படேல்</nameta>
+<image>sardarvbpatel</image>
+<show>true</show>
+<custom>false</custom>
+<audio>sardarvbpatel</audio>
+</row>
+<row>
+<name>Mahakavi Bharathiyar</name>
+<nameta>மகாகவி பாரதியார்</nameta>
+<image>bharatiyar</image>
+<show>true</show>
+<custom>false</custom>
+<audio>bharatiyar</audio>
+</row>
+<row>
+<name>Gopala Krishna Gokhale</name>
+<nameta>கோபால கிருஷ்ண கோகலே</nameta>
+<image>gopalkrishna</image>
+<show>true</show>
+<custom>false</custom>
+<audio>gopalkrishna</audio>
+</row>
+<row>
+<name>Jhansi Rani Laxmi Bhai</name>
+<nameta>ஜான்சி ராணி லக்ஷ்மி பாய்</nameta>
+<image>jhansi</image>
+<show>true</show>
+<custom>false</custom>
+<audio>jhansi</audio>
+</row>
+<row>
+<name>Lala Lajpat Rai</name>
+<nameta>லாலா லஜ்பத் ராய்</nameta>
+<image>lalalajpatrai</image>
+<show>true</show>/
+<custom>false</custom>
+<audio>lalalajpatrai</audio>
+</row>
+<row>
+<name>Lal Bahadur Shastri</name>
+<nameta>லால் பகதூர் சாஸ்திரி</nameta>
+<image>lalbahadur</image>
+<show>true</show>
+<custom>false</custom>
+<audio>lalbahadur</audio>
+</row>
+<row>
+<name>Jawaharlal Nehru</name>
+<nameta>ஜவஹர்லால் நேரு</nameta>
+<image>nehru</image>
+<show>true</show>
+<custom>false</custom>
+<audio>nehru</audio>
+</row>
+<row>
+<name>Rajendra Prasad</name>
+<nameta>ராஜேந்திர பிரசாத்</nameta>
+<image>rajendra</image>
+<show>true</show>
+<custom>false</custom>
+<audio>rajendra</audio>
+</row>
+<row>
+<name>Raja Ram Mohan Roy</name>
+<nameta>ராஜா ராம் மோகன் ராய்</nameta>
+<image>rajarammohanroy</image>
+<show>true</show>
+<custom>false</custom>
+<audio>rajarammohanroy</audio>
+</row>
+<row>
+<name>Swami Vivekananda</name>
+<nameta>சுவாமி விவேகானந்தா</nameta>
+<image>vivekananda</image>
+<show>true</show>
+<custom>false</custom>
+<audio>vivekananda</audio>
+</row>
+</appdata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<appdata>
+<row>
+<name>National Anthem</name>
+<nameta>தேசிய கீதம்</nameta>
+<image>jana</image>
+<show>true</show>
+<custom>false</custom>
+<audio>janaganamana</audio>
+</row>
+<row>
+<name>Vande Mataram</name>
+<nameta>வந்தே மாதரம்</nameta>
+<image>vande</image>
+<show>true</show>
+<custom>false</custom>
+<audio>vandemataram</audio>
+</row>
+</appdata>

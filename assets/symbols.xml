@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<appdata>
+<row>
+<name>National Flag</name>
+<nameta>தேசிய கொடி</nameta>
+<image>flag</image>
+<show>true</show>
+<custom>false</custom>
+<audio>flag</audio>
+</row>
+<row>
+<name>National Emblem - Ashoka Chakra</name>
+<nameta>தேசிய சின்னம்- அசோக சக்கரம்</nameta>
+<image>emblem</image>
+<show>true</show>
+<custom>false</custom>
+<audio>emblem</audio>
+</row>
+<row>
+<name>National Flower - Lotus</name>
+<nameta>தேசிய மலர் - தாமரை</nameta>
+<image>lotus</image>
+<show>true</show>
+<custom>false</custom>
+<audio>flower</audio>
+</row>
+<row>
+<name>National Fruit - Mango</name>
+<nameta>தேசிய பழம் - மாம்பழம்</nameta>
+<image>mango</image>
+<show>true</show>
+<custom>false</custom>
+<audio>fruit</audio>
+</row>
+<row>
+<name>National River - Ganges</name>
+<nameta>தேசிய நதி - கங்கை</nameta>
+<image>ganga</image>
+<show>true</show>
+<custom>false</custom>
+<audio>river</audio>
+</row>
+<row>
+<name>National Tree - Banyan</name>
+<nameta>தேசிய மரம் - ஆலமரம்</nameta>
+<image>banyan</image>
+<show>true</show>
+<custom>false</custom>
+<audio>tree</audio>
+</row>
+<row>
+<name>National Animal - Tiger</name>
+<nameta>தேசிய விலங்கு - புலி</nameta>
+<image>tiger</image>
+<show>true</show>
+<custom>false</custom>
+<audio>animal</audio>
+</row>
+<row>
+<name>National Bird - Peacock</name>
+<nameta>தேசிய பறவை - மயில்</nameta>
+<image>peacock</image>
+<show>true</show>
+<custom>false</custom>
+<audio>bird</audio>
+</row>
+<row>
+<name>National Aquatic Animal - Dolphin</name>
+<nameta>தேசிய நீர் விலங்கு - டால்பின்</nameta>
+<image>dolphin</image>
+<show>true</show>
+<custom>false</custom>
+<audio>aqua</audio>
+</row>
+<row>
+<name>National Currency - Rupee</name>
+<nameta>தேசிய நாணயம்</nameta>
+<image>rupee</image>
+<show>true</show>
+<custom>false</custom>
+<audio>currency</audio>
+</row>
+<row>
+<name>National Heritage Animal - Elephant</name>
+<nameta>தேசிய பாரம்பரிய விலங்கு - யானை</nameta>
+<image>elephant</image>
+<show>true</show>
+<custom>false</custom>
+<audio>heritage</audio>
+</row>
+<row>
+<name>National Reptile - King Cobra</name>
+<nameta>தேசிய ஊர்வன - ராஜ நாகம்</nameta>
+<image>snake</image>
+<show>true</show>
+<custom>false</custom>
+<audio>reptile</audio>
+</row>
+</appdata>
